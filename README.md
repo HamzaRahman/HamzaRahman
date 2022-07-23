@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaRahman, 
+<h2 align="center">👋 Hi, I’m Hamza Rahman</h2>
 ![retro-5120x2880-sun-mountains-neon-landscape-5k-18667](https://user-images.githubusercontent.com/86655407/180606807-aee669b9-f4a4-4e17-995a-304f4ac6bc96.jpg)
 <h2 align="center">About me</h2>
 <h2 align="center">Languages</h2>
