@@ -2,9 +2,16 @@
 ![retro-5120x2880-sun-mountains-neon-landscape-5k-18667](https://user-images.githubusercontent.com/86655407/180606807-aee669b9-f4a4-4e17-995a-304f4ac6bc96.jpg)
 <h2 align="center">About me</h2>
 <h2 align="center">Languages</h2>
-<a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://user-images.githubusercontent.com/86655407/180606807-aee669b9-f4a4-4e17-995a-304f4ac6bc96.jpg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+<a href=""  align="center">
+    <img src="https://user-images.githubusercontent.com/86655407/180608087-63722917-4e53-4623-b729-c0e015ee2bfc.png" alt="C#" height="50" width="45">
+</a>
+<a href=""  align="center">
+    <img src="https://user-images.githubusercontent.com/86655407/180608759-21b9c260-5c1f-4b0b-a456-4867be31c60a.png" alt="C#" height="50" width="45">
+</a>
+<a href=""  align="center">
+    <img src="https://user-images.githubusercontent.com/86655407/180608869-ba86992a-153b-4cc5-bb04-8c988672fd1e.png" alt="C#" height="50" width="45">
+</a>
+  
 -  .Net Platform
 -   Desktop Application Development in:
 -     Universal Windows Platform, 
