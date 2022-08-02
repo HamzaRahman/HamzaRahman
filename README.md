@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/86655407/180606807-aee669b9-f4a4-4e17-995a-304f4ac6bc96.jpg" />
 <h1 align="center">Hi 👋, I'm Hamza Rahman</h1>
-<h3 align="center">A passionate .Net Developer</h3>
+<h3 align="center">.Net Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzarahman&label=Profile%20views&color=0e75b6&style=flat" alt="hamzarahman" /> </p>
 
